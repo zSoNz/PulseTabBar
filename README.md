@@ -30,3 +30,7 @@ PulseTabBar is available through CocoaPods. To install it, simply add the follow
 ```ruby
 pod "PulseTabBar"
 ```
+
+## License
+
+LabelTextFormatter is available under the New BSD license. See the LICENSE file for more info.
